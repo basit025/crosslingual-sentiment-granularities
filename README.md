@@ -36,7 +36,7 @@ paper):
 |---|---|---|---|
 | mBERT | 2e-5 | 2e-5 | 2e-5 |
 | XLM-R | 2e-5 | 2e-5 | 2e-5 |
-| mDeBERTa-v3 | 3e-6 | 3e-6 (EN, DE, ES), 2e-6 (JA) | 2e-6 |
+| mDeBERTa-v3 | 3e-6 | 3e-6 | 2e-6 |
 
 ## Notes
 
