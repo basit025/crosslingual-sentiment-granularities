@@ -1,0 +1,34 @@
+protocol,check,description,value,holds
+target_val,C3,"mbert: tri-class ZS polar F1, neutral F1, gap, neutral-lowest pairs","63.90, 54.58, 9.32, 24/30",True
+target_val,C3,"xlmr: tri-class ZS polar F1, neutral F1, gap, neutral-lowest pairs","76.38, 59.84, 16.54, 30/30",True
+target_val,C3,"mdeberta: tri-class ZS polar F1, neutral F1, gap, neutral-lowest pairs","76.86, 60.28, 16.57, 30/30",True
+target_val,C4,"finegrained mbert: within-IE vs cross-family (MAE x100), gap","62.40, 81.18, +18.79",True
+target_val,C4,"finegrained xlmr: within-IE vs cross-family (MAE x100), gap","46.06, 55.74, +9.68",True
+target_val,C4,"finegrained mdeberta: within-IE vs cross-family (MAE x100), gap","47.27, 58.06, +10.79",True
+target_val,C4,"binarized mbert: within-IE vs cross-family (error %), gap","11.23, 18.71, +7.48",True
+target_val,C4,"binarized xlmr: within-IE vs cross-family (error %), gap","5.80, 9.00, +3.20",True
+target_val,C4,"triclass mbert: within-IE vs cross-family (MAE x100), gap","36.25, 47.39, +11.15",True
+target_val,C4,"triclass xlmr: within-IE vs cross-family (MAE x100), gap","26.94, 33.19, +6.25",True
+target_val,C4,"triclass mdeberta: within-IE vs cross-family (MAE x100), gap","26.06, 33.14, +7.08",True
+source_val,C3,"mbert: tri-class ZS polar F1, neutral F1, gap, neutral-lowest pairs","59.85, 54.68, 5.17, 16/30",True
+source_val,C3,"xlmr: tri-class ZS polar F1, neutral F1, gap, neutral-lowest pairs","75.16, 59.90, 15.26, 29/30",True
+source_val,C3,"mdeberta: tri-class ZS polar F1, neutral F1, gap, neutral-lowest pairs","73.48, 59.56, 13.92, 28/30",True
+source_val,C4,"finegrained mbert: within-IE vs cross-family (MAE x100), gap","63.76, 88.32, +24.56",True
+source_val,C4,"finegrained xlmr: within-IE vs cross-family (MAE x100), gap","46.30, 56.48, +10.18",True
+source_val,C4,"finegrained mdeberta: within-IE vs cross-family (MAE x100), gap","55.04, 77.33, +22.28",True
+source_val,C4,"binarized mbert: within-IE vs cross-family (error %), gap","12.77, 22.76, +9.98",True
+source_val,C4,"binarized xlmr: within-IE vs cross-family (error %), gap","6.05, 9.57, +3.52",True
+source_val,C4,"triclass mbert: within-IE vs cross-family (MAE x100), gap","38.86, 48.93, +10.07",True
+source_val,C4,"triclass xlmr: within-IE vs cross-family (MAE x100), gap","27.02, 34.39, +7.37",True
+source_val,C4,"triclass mdeberta: within-IE vs cross-family (MAE x100), gap","27.91, 36.15, +8.24",True
+last_epoch,C3,"mbert: tri-class ZS polar F1, neutral F1, gap, neutral-lowest pairs","61.08, 50.48, 10.60, 25/30",True
+last_epoch,C3,"xlmr: tri-class ZS polar F1, neutral F1, gap, neutral-lowest pairs","73.94, 57.23, 16.71, 30/30",True
+last_epoch,C3,"mdeberta: tri-class ZS polar F1, neutral F1, gap, neutral-lowest pairs","74.20, 56.73, 17.47, 29/30",True
+last_epoch,C4,"finegrained mbert: within-IE vs cross-family (MAE x100), gap","68.99, 89.99, +21.00",True
+last_epoch,C4,"finegrained xlmr: within-IE vs cross-family (MAE x100), gap","50.04, 60.79, +10.75",True
+last_epoch,C4,"finegrained mdeberta: within-IE vs cross-family (MAE x100), gap","57.10, 76.00, +18.91",True
+last_epoch,C4,"binarized mbert: within-IE vs cross-family (error %), gap","12.52, 22.50, +9.98",True
+last_epoch,C4,"binarized xlmr: within-IE vs cross-family (error %), gap","6.24, 10.23, +3.99",True
+last_epoch,C4,"triclass mbert: within-IE vs cross-family (MAE x100), gap","41.02, 52.24, +11.21",True
+last_epoch,C4,"triclass xlmr: within-IE vs cross-family (MAE x100), gap","29.76, 36.00, +6.24",True
+last_epoch,C4,"triclass mdeberta: within-IE vs cross-family (MAE x100), gap","28.97, 37.05, +8.08",True

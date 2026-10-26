@@ -1,0 +1,12 @@
+# data and model checkpoints are not distributed
+data/
+models/
+*.safetensors
+*.pt
+*.bin
+# environments and caches
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
