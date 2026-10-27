@@ -2,7 +2,7 @@
 
 Code and results for the paper
 
-> I. Hussain, A. Basit, and M. M. Rafiq, "Cross-Lingual Sentiment Transfer Across Granularities: Benchmarking and
+> A. Basit, M. M. Rafiq, and I. Hussain, "Cross-Lingual Sentiment Transfer Across Granularities: Benchmarking and
 > Explaining Multilingual Transformers," in *Proc. 23rd International Conference on Frontiers of Information
 > Technology (FIT 2026)*, Islamabad, Pakistan, 2026 (to appear).
 
